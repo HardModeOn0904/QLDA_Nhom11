@@ -1,2 +1,1 @@
-﻿Nguoi B push
-Nguoi A push
+﻿Người A push
